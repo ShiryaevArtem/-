@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Intern project
+//  main_testTask
 //
-//  Created by Artem on 14.12.2022.
+//  Created by Artem on 11.12.2022.
 //
 
 import UIKit
